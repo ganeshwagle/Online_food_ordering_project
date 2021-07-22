@@ -1,0 +1,34 @@
+body{
+  		height: 100vh;
+  		display: flex;
+  		flex-direction:column;
+  		align-items: center;
+  		justify-content: center;
+  		background-color: rgb(219,226,226);
+}
+.card{
+  		overflow: hidden;
+  		border: 0 !important;
+  		border-radius: 20px !important;
+  		-webkit-box-shadow: 13px 28px 91px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 13px 28px 91px -10px rgba(0,0,0,0.75);
+box-shadow: 13px 28px 91px -10px rgba(0,0,0,0.75);
+}
+.card-body{
+	padding: 2rem;
+	background-color: #cac9d1;
+}
+.title{
+
+		margin-bottom: 2rem;
+
+}
+.form-input{
+		position: relative;
+}
+.form-input input{
+	background-color: #f6f5fa;
+}
+.form-input h4{
+	background-color: #f6f5fa;
+}

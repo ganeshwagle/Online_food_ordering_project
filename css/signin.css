@@ -1,0 +1,26 @@
+.bg{
+background-image:url("../resource/meal.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+width: 100%;
+}
+
+.form-container{
+	padding:10px 60px;
+    margin-top:20vh;
+    -webkit-box-shadow: -1px 9px 70px 18px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 9px 70px 18px rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 70px 18px rgba(0,0,0,0.75);
+    color:white;
+}
+.anchor{
+    padding-top: 10px;
+    text-decoration: none;
+}
+.red_border{
+
+    border-color: red;
+}
+
